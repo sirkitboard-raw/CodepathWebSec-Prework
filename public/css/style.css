@@ -1,0 +1,15 @@
+body {
+  background: #CCCCFF; }
+
+#content .container {
+  background: #fff;
+  width: 40%;
+  min-width: 500px;
+  margin: auto;
+  padding: 20px; }
+#content h2 {
+  text-align: center; }
+#content #input-custom-percent {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */
